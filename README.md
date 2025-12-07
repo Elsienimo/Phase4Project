@@ -6,13 +6,13 @@ Using data cleaning, text preprocessing, feature engineering, sentiment visualiz
 
 The insights from this project help businesses understand how customers perceive their products on social media and guide data-driven decisions in marketing, product improvement, and customer experience strategy. We conclude with three actionable recommendations based on sentiment patterns that can help companies improve brand reputation and strengthen customer satisfaction
 
-##Business Understanding:
+## Business Understanding:
 In the digital era, customers constantly express opinions on social media, especially on platforms like Twitter. These posts reveal how people feel about brands, their products, and their customer experience.
 Companies increasingly rely on sentiment analysis to monitor public perception, identify dissatisfaction early, and guide marketing, product design, and support decisions.
 
 The **“judge-1377884607_tweet_product_company”** dataset fits into this real-world business need. It contains tweets, the product mentioned, and the company associated with each tweet. Most versions of this dataset also include or infer sentiment labels (positive, negative, or neutral).
 
-###Problem Statement
+### Problem Statement
 Brands invest massive resources in marketing at major events like SXSW, but they lack a real-time, data-driven understanding of public perception. They struggle to answer:
 
 - Is our campaign resonating positively?
